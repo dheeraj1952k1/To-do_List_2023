@@ -1,1 +1,3 @@
 # To-do_List_2023
+Its a simple To-Do list using HTML, CSS and JS.
+You can use it to boost your productivity...
